@@ -1,3 +1,4 @@
 # Project-Starter
 Gulp based project starter
-npm install after cloning
+
+```npm install``` after cloning
