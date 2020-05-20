@@ -1,0 +1,28 @@
+{
+	"name": "project-starter",
+	"version": "1.0.0",
+	"description": "Gulp based project starter",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Noureldineadel65/Project-Starter.git"
+	},
+	"author": "Noureldine Adel",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Noureldineadel65/Project-Starter/issues"
+	},
+	"homepage": "https://github.com/Noureldineadel65/Project-Starter#readme",
+	"devDependencies": {
+		"browser-sync": "^2.26.7",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^7.0.1",
+		"gulp-sass": "^4.1.0",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-terser": "^1.2.0",
+		"gulp-uglify": "^3.0.2"
+	}
+}
